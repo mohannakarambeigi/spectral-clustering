@@ -6,12 +6,14 @@
 * [Introduction](#Introduction)
 ## General info
 This project utilizes spectral clustering techniques to analyze two datasets seperately. It includes the construction of k-nearest neighbor similarity graphs, eigenvalue-driven clustering, and comparative assessments against alternative clustering methods. Explore and understand complex datasets with this adaptable tool.
-##Abstract
+
+##  Absract
 In machine learning and data analysis, spectral clustering is a prominent method for grouping datasets based on their inherent structures.
 This study explores the application of spectral clustering to two different
 datasets, Circle and Spiral, and compares its effectiveness against other
 clustering algorithms.
-##Introduction
+
+## Introduction
 Spectral clustering is a widely used unsupervised learning technique based on
 spectral graph theory. It efficiently clusters data points in high-dimensional
 spaces by projecting them onto a lower-dimensional space using the eigenvectors of a similarity graph’s Laplacian matrix. This method has been successfully
